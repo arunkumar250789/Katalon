@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Application URL for test execution</description>
+      <initValue>'https://demowebshop.tricentis.com/'</initValue>
+      <name>ApplicationURL</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid email for login tests</description>
+      <initValue>'test@example.com'</initValue>
+      <name>ValidEmail</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid password for login tests</description>
+      <initValue>'Password123'</initValue>
+      <name>ValidPassword</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User ID created during API tests</description>
+      <initValue>''</initValue>
+      <name>CreatedUserId</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test execution environment</description>
+      <initValue>'QA'</initValue>
+      <name>TestEnvironment</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test case start time for execution tracking</description>
+      <initValue>0</initValue>
+      <name>TestStartTime</name>
+      <protected>false</protected>
+      <valueType>NUMBER</valueType>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

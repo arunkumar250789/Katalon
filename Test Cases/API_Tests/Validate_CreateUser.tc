@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Run the ValidateCreateUser script (minimal unit-style API validation)</description>
+   <name>Validate_CreateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>validate-create-user-0001</testCaseGuid>
+</TestCaseEntity>
